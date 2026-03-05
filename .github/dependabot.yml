@@ -1,3 +1,6 @@
+version: 2
+
+updates:
   # --- Frontend npm ecosystem ---
   - package-ecosystem: "npm"
     directory: "/frontend"
