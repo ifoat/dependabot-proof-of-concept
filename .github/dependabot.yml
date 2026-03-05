@@ -1,3 +1,11 @@
 version: 2
 
 updates:
+# --- Frontend npm ecosystem ---
+  - package-ecosystem: "npm"
+    directory: "/frontend"
+    schedule:
+      interval: "daily"
+    ignore:
+      - dependency-name: "*"
+      update-types: ["version-update:semver-minor", "version-update:semver-patch", "version-update:semver-major"]
