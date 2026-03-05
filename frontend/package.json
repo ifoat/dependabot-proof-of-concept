@@ -1,0 +1,19 @@
+{
+  "name": "frontend-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "0.0.8",
+   frontend/package-lock.json**
+*(Minimal lockfile — required for Dependabot to scan)*  
+```json
+{
+  "name": "frontend-app",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "axios": { "version": "0.19.0" },
+    "lodash": { "version": "4.17.15" },
+    "minimist": { "version": "0.0.8" }
+  }
+}
