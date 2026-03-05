@@ -1,0 +1,7 @@
+{
+  "name": "tools-helper",
+  "version": "1.0.0",
+  "dependencies": {
+    "uuid": "3.0.0"
+  }
+}
