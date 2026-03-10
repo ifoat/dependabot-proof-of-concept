@@ -10,4 +10,3 @@ updates:
       - dependency-name: "axios"
     commit-message:
       prefix: "Version Update"
-      include-scope: true
