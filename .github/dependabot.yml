@@ -7,4 +7,4 @@ updates:
     schedule:
       interval: "daily"
     allow:
-      dependency-name: "minimist"
+      - dependency-name: "minimist"
